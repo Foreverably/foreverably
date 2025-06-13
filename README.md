@@ -1,16 +1,22 @@
-## Hi there 👋
+```js
+console.log("Hello world!");
+```
+---
+### Bio
+A developer from the mainlands of hell, I'm passionate in C#, Java, Javascript and Python.
+- Learning: Javascript & Typescript
+- Working on: [Aegis, a QoL feature Discord bot](https://aegisbot.pages.dev/)
 
-<!--
-**Foreverably/foreverably** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently attending High School at an undisclosed location, sophomore.
 
-Here are some ideas to get you started:
+--- 
+### Other
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects:**
+- [Aegis](https://aegisbot.pages.dev/)
+- WynnDE: Data & Esports (New)
+- [Archive Viewer](https://foreverably.pages.dev/visorarchiveviewer/) (Discontinued // [See this](https://github.com/EricPanDev/DiscordArchiveViewer))
+
+**Honourable Mentions:**
+[No Text To Speech](https://discord.gg/ntts)
+[Niko's Refuge](https://discord.gg/D9dWUKrZqC)
