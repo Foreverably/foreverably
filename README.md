@@ -6,6 +6,7 @@ console.log("Hello world!");
 A developer from the mainlands of hell, I'm passionate in C#, Java, Javascript and Python.
 - Learning: Javascript & Typescript
 - Working on: [Aegis, a QoL feature Discord bot](https://aegisbot.pages.dev/)
+- Contributing to [Jasper](https://github.com/JayyDoesDev/jasper)
 
 Currently attending High School at an undisclosed location, sophomore.
 
