@@ -1,23 +1,27 @@
-```js
-console.log("Hello world!");
+```ts
+const name = "Forwynn";
+console.log(`Hello! Welcome to ${name}'s GitHub!`);
 ```
 ---
 ### Bio
-A developer from the mainlands of hell, I'm passionate in C#, Java, Javascript and Python.
-- Learning: Javascript & Typescript
-- Working on: [Aegis, a QoL feature Discord bot](https://aegisbot.pages.dev/)
-- Contributing to [Jasper](https://github.com/JayyDoesDev/jasper)
+I enjoy writing in C#, TypeScript, JavaScript, and Java! I also enjoy breaking code.
+- Learning: JavaScript/TypeScript, Python
+- Working on:
+  - [Aegis, a QoL feature Discord.JS bot](https://aegisbot.forwynn.net/)
+  - Helia, a utility userapp for discord, written in TS
+- Contributed to [Jasper](https://github.com/JayyDoesDev/jasper)
 
-Currently attending High School at an undisclosed location, sophomore.
+I mainly use Visual Studio Code, however I sometimes use WebStorm or IntelliJ IDEA
 
 --- 
 ### Other
 
 **Projects:**
-- [Aegis](https://aegisbot.pages.dev/)
-- WynnDE: Data & Esports (New)
-- [Archive Viewer](https://foreverably.pages.dev/visorarchiveviewer/) (Discontinued // [See this](https://github.com/EricPanDev/DiscordArchiveViewer))
+- [Aegis](https://aegisbot.forwynn.net/)
+- **Helia** (coming soon // open source)
 
-**Honourable Mentions:**
-[No Text To Speech](https://discord.gg/ntts)
-[Niko's Refuge](https://discord.gg/D9dWUKrZqC)
+---
+### Where I usually am
+[No Text To Speech | Discord](https://discord.gg/ntts)
+
+[Niko's Refuge | Discord](https://discord.gg/D9dWUKrZqC)
