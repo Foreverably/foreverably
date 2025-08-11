@@ -8,7 +8,7 @@ I enjoy writing in C#, TypeScript, JavaScript, and Java! I also enjoy breaking c
 - Learning: JavaScript/TypeScript, Python
 - Working on:
   - [Aegis, a QoL feature Discord.JS bot](https://aegisbot.forwynn.net/)
-  - Helia, a utility userapp for discord, written in TS
+  - Helia, a utility userapp for discord
 - Contributed to [Jasper](https://github.com/JayyDoesDev/jasper)
 
 I mainly use Visual Studio Code, however I sometimes use WebStorm or IntelliJ IDEA
