@@ -7,8 +7,9 @@ console.log(`Hello! Welcome to ${name}'s GitHub!`);
 I enjoy writing in C#, TypeScript, JavaScript, and Java! I also enjoy breaking code.
 - Learning: JavaScript/TypeScript, Python
 - Working on:
-  - [Aegis, a QoL feature Discord.JS bot](https://aegis.forwynn.net/)
+  - [Nexu, a QoL feature Discord.JS bot](https://nexu.forwynn.net/)
   - Helia, a utility userapp for discord
+  - Espie, VIP event scheduling Discord bot for [No Text To Speech](https://discord.gg/ntts)
 - Contributed to [Jasper](https://github.com/JayyDoesDev/jasper)
 
 I mainly use Visual Studio Code, however I sometimes use WebStorm or IntelliJ IDEA
@@ -17,7 +18,7 @@ I mainly use Visual Studio Code, however I sometimes use WebStorm or IntelliJ ID
 ### Other
 
 **Projects:**
-- [Aegis](https://aegis.forwynn.net/)
+- [Nexu](https://nexu.forwynn.net/)
 - **Helia** (coming soon // open source)
 
 ---
