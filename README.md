@@ -4,7 +4,7 @@ console.log(`Hello! Welcome to ${name}'s GitHub!`);
 ```
 ---
 ### Bio
-I enjoy writing in C#, TypeScript, JavaScript, and Java! I also enjoy breaking code.
+I enjoy writing in C#, TypeScript, JavaScript, Python, and Java! I also enjoy breaking code.
 - Learning: JavaScript/TypeScript, Python
 - Working on:
   - [Nexu, a QoL feature Discord.JS bot](https://nexu.forwynn.net/)
